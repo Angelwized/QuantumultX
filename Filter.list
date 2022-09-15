@@ -1,7 +1,0 @@
-# > ios-ota-blocker
-DOMAIN-SUFFIX,ipsw.me,REJECT
-DOMAIN-SUFFIX,gdmf.apple.com,REJECT
-DOMAIN-SUFFIX,xp.apple.com,REJECT
-DOMAIN-SUFFIX,swscan.apple.com,REJECT
-DOMAIN-SUFFIX,appldnld.apple.com,REJECT
-DOMAIN-SUFFIX,mesu.apple.com,REJECT
