@@ -1,1 +1,1 @@
-自用的规则更新，若有侵权，联系删除@Angelwized！！！
+自用的规则更新，若有侵权，联系删除@https://t.me/Angelwized
