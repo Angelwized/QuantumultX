@@ -4,4 +4,3 @@ host-suffix,xp.apple.com,REJECT
 host-suffix,swscan.apple.com,REJECT
 host-suffix,appldnld.apple.com,REJECT
 host-suffix,mesu.apple.com,REJECT
-ip-cidr,vpn.zhenyevpn.xyz,direct
