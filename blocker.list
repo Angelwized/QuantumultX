@@ -1,3 +1,4 @@
+#ios-ota-blocker
 host-suffix,ipsw.me,REJECT
 host-suffix,gdmf.apple.com,REJECT
 host-suffix,xp.apple.com,REJECT
